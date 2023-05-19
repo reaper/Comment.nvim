@@ -61,6 +61,7 @@ local L = setmetatable({
     elixir = { M.hash },
     elm = { M.dash, M.haskell_b },
     elvish = { M.hash },
+    eruby = { M.html },
     faust = { M.cxx_l, M.cxx_b },
     fennel = { M.semicolon },
     fish = { M.hash },
